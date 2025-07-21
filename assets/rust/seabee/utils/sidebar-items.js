@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_dir_if_not_exists","ensure_root","file_to_bytes","fill_buff_with_str","generate_sigmask","is_sigint_allowed","open_or_create","remove_if_exists","str_to_abs_path","str_to_bytes","verify_file_has_ext","verify_requirements"]};
