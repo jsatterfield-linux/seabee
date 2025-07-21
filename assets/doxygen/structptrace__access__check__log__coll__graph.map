@@ -1,0 +1,5 @@
+<map id="ptrace_access_check_log" name="ptrace_access_check_log">
+<area shape="rect" id="Node000001" title="Log for a ptrace_access_check() LSM hook event." alt="" coords="5,94,178,120"/>
+<area shape="rect" id="Node000002" href="$structlog__hdr.html" title="Header attached to every log message." alt="" coords="60,5,123,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,94,94,89,94,89,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="task_kill_log" name="task_kill_log">
+<area shape="rect" id="Node000001" title="Log a task_kill() LSM hook event." alt="" coords="5,94,99,120"/>
+<area shape="rect" id="Node000002" href="$structlog__hdr.html" title="Header attached to every log message." alt="" coords="20,5,84,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,47,55,94,49,94,49,47"/>
+</map>

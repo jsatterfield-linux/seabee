@@ -1,0 +1,14 @@
+<map id="/github/workspace/bpf/include/logging.h" name="/github/workspace/bpf/include/logging.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,308,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,81,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,49,87,90,85,85,185,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,94,225,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,48,187,84,183,80,215,45"/>
+<area shape="rect" id="Node000004" href="$logging__types_8h.html" title=" " alt="" coords="249,94,360,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,45,285,80,281,84,249,48"/>
+<area shape="rect" id="Node000006" href="$shared__rust__types_8h_source.html" title=" " alt="" coords="384,94,521,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,44,405,86,404,91,287,49"/>
+<area shape="rect" id="Node000005" href="$constants_8h.html" title=" " alt="" coords="334,168,422,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="318,118,356,155,353,159,315,122"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="442,122,403,159,399,155,438,118"/>
+</map>

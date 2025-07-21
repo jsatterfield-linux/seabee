@@ -1,0 +1,5 @@
+<map id="inode_access_log" name="inode_access_log">
+<area shape="rect" id="Node000001" title="Log for various events that access inodes (file_open, inode_unlink)" alt="" coords="5,94,131,120"/>
+<area shape="rect" id="Node000002" href="$structlog__hdr.html" title="Header attached to every log message." alt="" coords="36,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,47,71,94,65,94,65,47"/>
+</map>

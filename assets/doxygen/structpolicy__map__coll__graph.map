@@ -1,0 +1,5 @@
+<map id="policy_map" name="policy_map">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,94,103,120"/>
+<area shape="rect" id="Node000002" href="$structc__policy__config.html" title="c_policy_config contains security levels for protected objects and corresponds to a policy id." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,47,63,94,57,94,57,47"/>
+</map>

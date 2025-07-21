@@ -1,0 +1,11 @@
+<map id="/github/workspace/bpf/include/seabee_maps.h" name="/github/workspace/bpf/include/seabee_maps.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,5,245,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,81,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,49,76,88,73,83,133,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,94,225,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,46,167,78,162,78,162,46"/>
+<area shape="rect" id="Node000004" href="$shared__rust__types_8h_source.html" title=" " alt="" coords="249,94,386,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,44,282,84,280,89,201,49"/>
+<area shape="rect" id="Node000005" href="$constants_8h.html" title=" " alt="" coords="274,168,362,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="320,120,320,152,315,152,315,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="generic_msg_log" name="generic_msg_log">
+<area shape="rect" id="Node000001" title="Generic log with a message field." alt="" coords="5,94,125,120"/>
+<area shape="rect" id="Node000002" href="$structlog__hdr.html" title="Header attached to every log message." alt="" coords="33,5,97,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,47,68,94,62,94,62,47"/>
+</map>

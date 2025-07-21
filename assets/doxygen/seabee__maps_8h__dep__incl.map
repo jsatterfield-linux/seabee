@@ -1,0 +1,11 @@
+<map id="/github/workspace/bpf/include/seabee_maps.h" name="/github/workspace/bpf/include/seabee_maps.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,251,46"/>
+<area shape="rect" id="Node000002" href="$seabee__utils_8h.html" title=" " alt="" coords="32,94,186,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,60,125,95,121,92,145,57"/>
+<area shape="rect" id="Node000003" href="$seabee_8bpf_8c.html" title=" " alt="" coords="26,271,192,312"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="191,59,206,95,218,137,221,182,217,204,209,225,186,253,157,273,154,269,182,249,204,222,212,202,215,181,213,138,201,96,186,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="52,145,30,162,14,184,8,203,14,222,36,249,64,269,61,273,32,253,9,225,3,203,9,181,26,159,48,141"/>
+<area shape="rect" id="Node000004" href="$seabee__log_8h.html" title=" " alt="" coords="24,183,194,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="112,150,112,182,106,182,106,150"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="112,239,112,271,106,271,106,239"/>
+</map>

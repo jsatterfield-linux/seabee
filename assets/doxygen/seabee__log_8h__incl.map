@@ -1,0 +1,29 @@
+<map id="/github/workspace/bpf/src/seabee/seabee_log.h" name="/github/workspace/bpf/src/seabee/seabee_log.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,5,347,46"/>
+<area shape="rect" id="Node000002" href="$logging_8h.html" title=" " alt="" coords="98,168,170,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,48,200,96,153,157,149,153,196,92,240,45"/>
+<area shape="rect" id="Node000007" href="$shared__rust__types_8h_source.html" title=" " alt="" coords="384,241,521,267"/>
+<area shape="poly" id="edge18_Node000001_Node000007" title=" " alt="" coords="293,45,357,95,391,129,421,166,438,196,448,226,443,228,433,198,417,169,387,132,353,99,289,49"/>
+<area shape="rect" id="Node000008" href="$seabee__utils_8h.html" title=" " alt="" coords="210,94,314,120"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="265,46,265,78,259,78,259,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,241,216,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,192,165,226,160,229,139,195"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="239,241,359,267"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,191,258,232,256,237,161,196"/>
+<area shape="rect" id="Node000005" href="$logging__types_8h.html" title=" " alt="" coords="5,241,116,267"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="124,195,85,232,82,229,120,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="171,187,384,235,383,240,170,193"/>
+<area shape="rect" id="Node000006" href="$constants_8h.html" title=" " alt="" coords="212,315,301,341"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="95,265,210,307,208,312,93,270"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="420,270,305,312,303,307,418,265"/>
+<area shape="poly" id="edge16_Node000008_Node000002" title=" " alt="" coords="241,123,170,162,168,157,239,118"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="257,121,195,229,190,226,253,119"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="306,118,341,136,358,150,371,167,375,186,368,204,354,221,336,235,333,230,350,217,363,201,370,185,366,169,354,153,339,141,303,123"/>
+<area shape="poly" id="edge17_Node000008_Node000005" title=" " alt="" coords="210,116,179,122,146,133,115,148,88,169,72,197,65,227,60,226,67,195,84,166,112,144,144,128,177,117,209,110"/>
+<area shape="poly" id="edge15_Node000008_Node000007" title=" " alt="" coords="301,118,345,137,390,166,419,196,441,227,436,230,415,199,387,170,343,142,298,123"/>
+<area shape="rect" id="Node000009" href="$seabee__maps_8h.html" title=" " alt="" coords="244,168,357,193"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="271,119,289,153,284,155,266,121"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="281,196,213,236,210,231,278,192"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="303,194,302,226,297,225,298,194"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="327,191,414,232,412,237,325,196"/>
+</map>
