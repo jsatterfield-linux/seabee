@@ -32,7 +32,7 @@ fn map_type_to_libbpf_str(map_type: MapType) -> Result<String> {
     // this unsafe code is required because returning a string from a C library
     // is inherently unsafe and uses memory not owned by the Rust program
     let c_str = unsafe {
-        let raw_str = libbpf_sys::libbpf_bpf_map_type_str(map_type.into()) as *mut i8;
+        let raw_str = libbpf_sys::libbpf_bpf_map_type_str(map_type.into()) as *const u8;
         CStr::from_ptr(raw_str)
     };
     Ok(c_str.to_str()?.to_string())

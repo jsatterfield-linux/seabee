@@ -29,10 +29,10 @@ fn add_seccomp_filter() -> Result<()> {
             (libc::SYS_clone3, vec![]),
             (libc::SYS_execve, vec![]),
             (libc::SYS_execveat, vec![]),
-            (libc::SYS_fork, vec![]),
+            //(libc::SYS_fork, vec![]),
             (libc::SYS_prctl, vec![]),
             (libc::SYS_seccomp, vec![]),
-            (libc::SYS_vfork, vec![]),
+            //(libc::SYS_vfork, vec![]),
         ]
         .into_iter()
         .collect(),
